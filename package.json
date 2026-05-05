@@ -1,0 +1,8 @@
+{
+  "name": "value-engineering-ai",
+  "version": "2.0.0",
+  "description": "منصة توليد تقارير الهندسة القيمية مدعومة بالذكاء الاصطناعي",
+  "scripts": {
+    "start": "npx serve public"
+  }
+}
